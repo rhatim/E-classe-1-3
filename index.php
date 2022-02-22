@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body>
-  <form method="POST" class="container bg-white" style="max-width: 475px">
+  <form method="POST" class="container bg-white h-auto" style="max-width: 475px">
     <h1 class="pt-4 ms-4"><span class="text-info">|</span> E-classe</h1>
     <h2 class="pt-3 text-center">SIGN IN</h2>
     <div class="opacity-75">
